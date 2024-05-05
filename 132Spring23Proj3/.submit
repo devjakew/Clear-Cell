@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC132
+#  Project P3 - Clear Cell Game: Clear Cell
+
+courseName=CMSC132
+semester=202301
+projectNumber=P3 - Clear Cell Game
+courseKey=e859c5e5de3563e8
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2023
+submitURL=https://submit.cs.umd.edu:443/spring2023/eclipse/SubmitProjectViaEclipse
